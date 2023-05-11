@@ -1,4 +1,4 @@
-# 🧬 FE5-algorithm
+# 🧬 FE5-algorithm-study
 패스트캠퍼스 프론트엔드 부트캠프 5기 : 그룹 스터디 9조
 
 <br />
