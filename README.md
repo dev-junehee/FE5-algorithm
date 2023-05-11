@@ -65,7 +65,6 @@
 - 파일명 : `문제이름.js` (한글로 띄어쓰기 없이 작성)
 - commit 메시지 : `[PGM] 문제이름 / 난이도 / 걸린 시간`
 - (Option) description : `문제 주소`
-- 터미널 작성법
 ```bash
 $ git commit -m "[PGM] 문제이름 / Level 1 / 10분"
 ```
